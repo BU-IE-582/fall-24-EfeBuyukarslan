@@ -14,3 +14,10 @@ Homework 2 [HTML File](HW2.html)
 
 Homework 2 [IPYNB File](HW2.ipynb)
 
+# Group Project
+Group 1 Project Report [HTML File](Project-Report.html)
+
+Group 1 Project Code [HTML File](Project-Code.html)
+
+Group 1 Project Code [IPYNB File](Project-Code.ipynb)
+
